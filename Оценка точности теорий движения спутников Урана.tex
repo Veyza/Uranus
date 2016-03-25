@@ -1,0 +1,215 @@
+\documentclass[]{article}
+\usepackage[koi8-r]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[pdftex]{graphicx}
+\graphicspath{{pictures/}}
+\DeclareGraphicsExtensions{.png}
+%opening
+\title{Оценка точности теорий движения Урана и его главных спутников по наблюдениям на инструментах Пулковской обсерватории}
+\author{Ершова Анастасия}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+\begin{center}
+\section{Введение}
+\end{center}
+
+Для фундаментальных исследований динамики планетных систем, а также вопросов формирования и эволюции Солнечной системы важны теории движения больших планет и их спутников. Кроме того, до сих пор Уран был обделён вниманием космических аппаратов (Только Вояджер 2 внёс свою лепту в наблюдения системы Урана), и координаты Урана и его спутников понадобятся при подготовке будущих космических миссий.\\
+В данной работе рассматриваются теории движения четырёх из пяти главных спутников Урана. Теоретически предсказанные положения светил на небесной сфере сравниваются с измеренными координатами, полученными из наблюдений на инструментах Пулковской обсерватории. Речь идёт о снимках, с 26''-рефрактора и Нормального астрографа. В работе использован длинный ряд наблюдений, включающий в себя и данные с фотопластинок, самые старые из которых датируются 1953 годом, и новейшие наблюдения с ПЗС.\\
+
+\begin{center}
+\section{Система близких спутников Урана и особенности её наблюдений}
+\end{center}
+
+
+ Уран является самой тусклой из планет, доступных для наблюдения невооружённым глазом. Он был открыт Уильямом Гершелем в 1781 году. Как и все большие планеты, Уран имеет систему колец и спутников, среди которых сейчас выделяют 5 главных, то есть ближайших к планете и имеющих наибольшие размеры. В порядке удаления орбиты спутника от планеты это --- Миранда (u5), Ариэль (u1), Умбриэль (u2), Титания (u3) и Оберон (u4). История наблюдения самых крупных спутников -- Титании и Оберона -- начинается уже в 1787 году, Ариэль  и Умбриэль были открыты в 1847, Миранда -- в 1948. Хронологический порядок отражает трудоёмкость наблюдений этих объектов и точности теорий их движений. Измерить положение спутника на  ПЗС-кадре тем сложнее, чем ближе спутник находится к планете и, соответственно, сильнее скрыт ореолом.\\
+ Можно оценить наибольшие угловые расстояния, на которые спутники могут отдалятся от планеты. Считая для оценки, что Земля и Уран в противостоянии, получим следующее.\\
+\begin{center}
+\begin{tabular}{ccc}
+Спутник && Максимальное удаление от Урана в секундах дуги\\
+ && \\
+Оберон && 44\\
+Титания && 33\\
+Умбриэль && 20\\
+Ариэль && 14\\
+Миранда && 9\\
+\end{tabular}
+\end{center}
+
+На снимках, используемых в данной работе, изображение Миранды удавалось выделить в крайне редких случаях (около 5 ночей за весь ряд наблюдений). Даже в этих случаях измерений приемлемого качества не получалось. Поэтому в дальнейшем этот спутник из рассмотрения выбрасывается.\\
+
+
+\begin{figure}[h!]
+\includegraphics[scale=0.7]{plane_turn_3}
+\caption{Видимая с Земли ориентация Урана и орбит его спутников (``Astrometry of the main satellites of Uranus: 18 years of observations'', J.I.B. Camargo и др., 2015)}
+\label{fig:plane_turn}
+\end{figure}
+\\
+
+Ось вращения Урана составляет малый угол ($\approx 8^o$) с плоскостью его орбиты, в следствие чего при движении Урана вокруг Солнца изменяется угол, под которым с Земли видна плоскость орбит его спутников (Рис. \ref{fig:plane_turn}). Когда экваториальная плоскость Урана видна с ребра, велика вероятность, что спутник на кадре окажется непосредственно перед планетой или за ней, то есть его координаты измерить будет нельзя. Поэтому количество измеренных нормальных мест распределено во времени не равномерно.\\
+Если рассматривать ряд наблюдений, представленный конкретно в этой работе, то заметен дефицит положений спутников, полученных по ПЗС-кадрам в 2007 -- 2010 годах. Однако объясняется он, скорее, не ориентацией экваториальной плоскости Урана, а техническими причинами. В то же время, сопоставляя годы с 2011 по 2015, в которых количества ночей наблюдений сравнимы, можно заметить, что доля измерений, не отсеянных в процессе обработки (с небольшой дисперсией), росла от 2011 к 2015 году.
+\\
+
+\begin{tabular}{cc}
+2011 & --- 0.617\\
+2012 & --- \\
+2013 & --- \\
+2014 & --- 0.629\\
+2015 & --- 0.759\\
+\end{tabular}
+\\
+\\
+Географические координаты Пулковской обсерватории $59^o 46' 18.2''$ с. ш., $30^o 19' 33.8''$ в. д., что в настоящее время позволяет проводить наблюдения Урана в период с конца августа по начало января. В 1950-ые годы большинство наблюений проводилось в марте.
+\\
+\section{Современные наблюдения}
+Наблюдения системы Урана на ПЗС начались в августе 2007-го года, когда на 26''-рефрактор Пулковской обсерватории была установлена камера FLI Pro Line 09000, имеющая размеры 3056х3056 px, каждый пиксель по $12 \mu m$. Поле зрения камеры -- 12'x12', масштаб 0''.24/px \cite{1}. Как правило, за одну ночь делалось 40 кадров с экспозицией по 10 секунд. Кадры складывались по 8, что давало 5 независимых измерений положений спутников. На основе этих измерений вычислялись средние координаты в средний момент времени.
+
+
+
+
+
+
+
+
+
+
+\section{Результаты}
+\subsection{Ариэль}
+
+
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Ariel_Lainey_RA}
+\label{fig:Ariel_Lainey_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Ariel_Emelyanov_RA}
+\label{fig:Ariel_Emelyanov_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Ariel_Laskar_RA}
+\caption{O-C Ариэль, прямое восхождение}
+\label{fig:Ariel_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Ariel_Lainey_DEC}
+\label{fig:Ariel_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Ariel_Emelyanov_DEC}
+\label{fig:Ariel_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Ariel_Laskar_DEC}
+\caption{O-C Ариэль, склонение}
+\label{fig:Ariel_Laskar_RA}
+\end{figure}
+
+
+
+\subsection{Умбриэль}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Umbriel_Lainey_RA}
+\label{fig:Umbriel_Lainey_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Umbriel_Emelyanov_RA}
+\label{fig:Umbriel_Emelyanov_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Umbriel_Laskar_RA}
+\caption{O-C Умбриэль, прямое восхождение}
+\label{fig:Umbriel_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Umbriel_Lainey_DEC}
+\label{fig:Umbriel_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Umbriel_Emelyanov_DEC}
+\label{fig:Umbriel_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Umbriel_Laskar_DEC}
+\caption{O-C Умбриэль, склонение}
+\label{fig:Umbriel_Laskar_RA}
+\end{figure}
+
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Titania_Lainey_RA}
+\label{fig:Titania_Lainey_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Titania_Emelyanov_RA}
+\label{fig:Titania_Emelyanov_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Titania_Laskar_RA}
+\caption{O-C Титания, прямое восхождение}
+\label{fig:Titania_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Titania_Lainey_DEC}
+\label{fig:Titania_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Titania_Emelyanov_DEC}
+\label{fig:Titania_Laskar_RA}
+\end{figure}
+\begin{figure}[H]
+\includegraphics[scale=0.3]{Titania_Laskar_DEC}
+\caption{O-C Титания, склонение}
+\label{fig:Titania_Laskar_RA}
+\end{figure}
+
+
+
+
+
+
+
+
+
+\begin{thebibliography}{99}
+\bibitem{1} ``Astrometric Observations of Satellites of Uranus Using 26-Inch Refractor in 2007--2011'', 2013, E. A. Roschina, I. S. Izmailov, T. P. Kiseleva
+\bibitem{2} ``Ephemerides of the main Uranian Satellites'', 2013, N. V. Emelyanov, D. V. Nikonchuk
+\bibitem{3}  ``Astrometry of the main satellites of Uranus: 18 years of observations'', J.I.B. Camargo и др., 2015
+\end{thebibliography}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Заметки на будущее}
+ Добавить в таблицу долю хороших измерений в 2012 и 2013 годах\\
+ сделать отступы в началах абзацев
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
