@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  10 APR 2016 14:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  13 APR 2016 11:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -243,26 +243,14 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \end{center}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
+(Font)              <5> on input line 32.
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.41  &
+l.34  &
         & \\
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -272,7 +260,7 @@ So I'll assume that you meant to type \cr instead.
 File: pictures/plane_turn_3.png Graphic file (type png)
 
 <use pictures/plane_turn_3.png>
-Package pdftex.def Info: pictures/plane_turn_3.png used on input line 54.
+Package pdftex.def Info: pictures/plane_turn_3.png used on input line 47.
 (pdftex.def)             Requested size: 396.98041pt x 201.65198pt.
 
 
@@ -285,7 +273,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 
+l.52 
      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -301,190 +289,117 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 
+l.56 
      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 57--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+! LaTeX Error: There's no line here to end.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 76.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 77.
 
 Missing character: There is no � in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
 [2 <./pictures/plane_turn_3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 82--95
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--93
-
- []
-
-<pictures/Ariel_Lainey_RA.png, id=20, 1505.625pt x 501.875pt>
-File: pictures/Ariel_Lainey_RA.png Graphic file (type png)
-
-<use pictures/Ariel_Lainey_RA.png>
-Package pdftex.def Info: pictures/Ariel_Lainey_RA.png used on input line 138.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Ariel_Emelyanov_RA.png, id=21, 1505.625pt x 501.875pt>
+<pictures/Ariel_Emelyanov_RA.png, id=20, 1505.625pt x 501.875pt>
 File: pictures/Ariel_Emelyanov_RA.png Graphic file (type png)
 
 <use pictures/Ariel_Emelyanov_RA.png>
-Package pdftex.def Info: pictures/Ariel_Emelyanov_RA.png used on input line 142
+Package pdftex.def Info: pictures/Ariel_Emelyanov_RA.png used on input line 139
 .
 (pdftex.def)             Requested size: 451.691pt x 150.56366pt.
 
-<pictures/Ariel_Laskar_RA.png, id=22, 1505.625pt x 501.875pt>
-File: pictures/Ariel_Laskar_RA.png Graphic file (type png)
-
-<use pictures/Ariel_Laskar_RA.png>
-Package pdftex.def Info: pictures/Ariel_Laskar_RA.png used on input line 146.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
- [3]
-<pictures/Ariel_Lainey_DEC.png, id=30, 1505.625pt x 501.875pt>
-File: pictures/Ariel_Lainey_DEC.png Graphic file (type png)
-
-<use pictures/Ariel_Lainey_DEC.png>
-Package pdftex.def Info: pictures/Ariel_Lainey_DEC.png used on input line 152.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Ariel_Emelyanov_DEC.png, id=31, 1505.625pt x 501.875pt>
+<pictures/Ariel_Emelyanov_DEC.png, id=21, 1505.625pt x 501.875pt>
 File: pictures/Ariel_Emelyanov_DEC.png Graphic file (type png)
 
 <use pictures/Ariel_Emelyanov_DEC.png>
-Package pdftex.def Info: pictures/Ariel_Emelyanov_DEC.png used on input line 15
-6.
+Package pdftex.def Info: pictures/Ariel_Emelyanov_DEC.png used on input line 14
+5.
 (pdftex.def)             Requested size: 451.691pt x 150.56366pt.
 
-<pictures/Ariel_Laskar_DEC.png, id=32, 1505.625pt x 501.875pt>
-File: pictures/Ariel_Laskar_DEC.png Graphic file (type png)
-
-<use pictures/Ariel_Laskar_DEC.png>
-Package pdftex.def Info: pictures/Ariel_Laskar_DEC.png used on input line 160.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Umbriel_Lainey_RA.png, id=33, 1505.625pt x 501.875pt>
-File: pictures/Umbriel_Lainey_RA.png Graphic file (type png)
-
-<use pictures/Umbriel_Lainey_RA.png>
-Package pdftex.def Info: pictures/Umbriel_Lainey_RA.png used on input line 172.
-
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Umbriel_Emelyanov_RA.png, id=34, 1505.625pt x 501.875pt>
+<pictures/Umbriel_Emelyanov_RA.png, id=22, 1505.625pt x 501.875pt>
 File: pictures/Umbriel_Emelyanov_RA.png Graphic file (type png)
 
 <use pictures/Umbriel_Emelyanov_RA.png>
 Package pdftex.def Info: pictures/Umbriel_Emelyanov_RA.png used on input line 1
-76.
+55.
 (pdftex.def)             Requested size: 451.691pt x 150.56366pt.
 
-<pictures/Umbriel_Laskar_RA.png, id=35, 1505.625pt x 501.875pt>
-File: pictures/Umbriel_Laskar_RA.png Graphic file (type png)
-
-<use pictures/Umbriel_Laskar_RA.png>
-Package pdftex.def Info: pictures/Umbriel_Laskar_RA.png used on input line 180.
-
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
- [4]
-<pictures/Umbriel_Lainey_DEC.png, id=39, 1505.625pt x 501.875pt>
-File: pictures/Umbriel_Lainey_DEC.png Graphic file (type png)
-
-<use pictures/Umbriel_Lainey_DEC.png>
-Package pdftex.def Info: pictures/Umbriel_Lainey_DEC.png used on input line 186
-.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Umbriel_Emelyanov_DEC.png, id=40, 1505.625pt x 501.875pt>
+<pictures/Umbriel_Emelyanov_DEC.png, id=23, 1505.625pt x 501.875pt>
 File: pictures/Umbriel_Emelyanov_DEC.png Graphic file (type png)
 
 <use pictures/Umbriel_Emelyanov_DEC.png>
 Package pdftex.def Info: pictures/Umbriel_Emelyanov_DEC.png used on input line 
-190.
+161.
 (pdftex.def)             Requested size: 451.691pt x 150.56366pt.
 
-<pictures/Umbriel_Laskar_DEC.png, id=41, 1505.625pt x 501.875pt>
-File: pictures/Umbriel_Laskar_DEC.png Graphic file (type png)
-
-<use pictures/Umbriel_Laskar_DEC.png>
-Package pdftex.def Info: pictures/Umbriel_Laskar_DEC.png used on input line 194
-.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Titania_Lainey_RA.png, id=42, 1505.625pt x 501.875pt>
-File: pictures/Titania_Lainey_RA.png Graphic file (type png)
-
-<use pictures/Titania_Lainey_RA.png>
-Package pdftex.def Info: pictures/Titania_Lainey_RA.png used on input line 206.
-
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Titania_Emelyanov_RA.png, id=43, 1505.625pt x 501.875pt>
+<pictures/Titania_Emelyanov_RA.png, id=24, 1505.625pt x 501.875pt>
 File: pictures/Titania_Emelyanov_RA.png Graphic file (type png)
 
 <use pictures/Titania_Emelyanov_RA.png>
-Package pdftex.def Info: pictures/Titania_Emelyanov_RA.png used on input line 2
-10.
+Package pdftex.def Info: pictures/Titania_Emelyanov_RA.png used on input line 1
+71.
 (pdftex.def)             Requested size: 451.691pt x 150.56366pt.
 
-<pictures/Titania_Laskar_RA.png, id=44, 1505.625pt x 501.875pt>
-File: pictures/Titania_Laskar_RA.png Graphic file (type png)
-
-<use pictures/Titania_Laskar_RA.png>
-Package pdftex.def Info: pictures/Titania_Laskar_RA.png used on input line 214.
-
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
- [5]
-<pictures/Titania_Lainey_DEC.png, id=48, 1505.625pt x 501.875pt>
-File: pictures/Titania_Lainey_DEC.png Graphic file (type png)
-
-<use pictures/Titania_Lainey_DEC.png>
-Package pdftex.def Info: pictures/Titania_Lainey_DEC.png used on input line 221
-.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
-
-<pictures/Titania_Emelyanov_DEC.png, id=49, 1505.625pt x 501.875pt>
+<pictures/Titania_Emelyanov_DEC.png, id=25, 1505.625pt x 501.875pt>
 File: pictures/Titania_Emelyanov_DEC.png Graphic file (type png)
 
 <use pictures/Titania_Emelyanov_DEC.png>
 Package pdftex.def Info: pictures/Titania_Emelyanov_DEC.png used on input line 
-225.
+176.
 (pdftex.def)             Requested size: 451.691pt x 150.56366pt.
 
-<pictures/Titania_Laskar_DEC.png, id=50, 1505.625pt x 501.875pt>
-File: pictures/Titania_Laskar_DEC.png Graphic file (type png)
+<pictures/Oberon_Emelyanov_RA.png, id=26, 1505.625pt x 501.875pt>
+File: pictures/Oberon_Emelyanov_RA.png Graphic file (type png)
 
-<use pictures/Titania_Laskar_DEC.png>
-Package pdftex.def Info: pictures/Titania_Laskar_DEC.png used on input line 229
-.
+<use pictures/Oberon_Emelyanov_RA.png>
+Package pdftex.def Info: pictures/Oberon_Emelyanov_RA.png used on input line 18
+6.
 (pdftex.def)             Requested size: 451.691pt x 150.56366pt.
- [6] [7 <./pictures/Ariel_Lainey_RA.png> <./pictures/Ariel_Emelyanov_RA.png> <.
-/pictures/Ariel_Laskar_RA.png> <./pictures/Ariel_Lainey_DEC.png>] [8 <./picture
-s/Ariel_Emelyanov_DEC.png> <./pictures/Ariel_Laskar_DEC.png> <./pictures/Umbrie
-l_Lainey_RA.png> <./pictures/Umbriel_Emelyanov_RA.png>] [9 <./pictures/Umbriel_
-Laskar_RA.png> <./pictures/Umbriel_Lainey_DEC.png> <./pictures/Umbriel_Emelyano
-v_DEC.png> <./pictures/Umbriel_Laskar_DEC.png>] [10 <./pictures/Titania_Lainey_
-RA.png> <./pictures/Titania_Emelyanov_RA.png> <./pictures/Titania_Laskar_RA.png
-> <./pictures/Titania_Lainey_DEC.png>]
-[11 <./pictures/Titania_Emelyanov_DEC.png> <./pictures/Titania_Laskar_DEC.png>]
 
+<pictures/Oberon_Emelyanov_DEC.png, id=27, 1505.625pt x 501.875pt>
+File: pictures/Oberon_Emelyanov_DEC.png Graphic file (type png)
+
+<use pictures/Oberon_Emelyanov_DEC.png>
+Package pdftex.def Info: pictures/Oberon_Emelyanov_DEC.png used on input line 1
+91.
+(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+[3] [4] [5 <./pictures/Ariel_Emelyanov_RA.png> <./pictures/Ariel_Emelyanov_DEC.
+png> <./pictures/Umbriel_Emelyanov_RA.png>] [6 <./pictures/Umbriel_Emelyanov_DE
+C.png> <./pictures/Titania_Emelyanov_RA.png> <./pictures/Titania_Emelyanov_DEC.
+png>] [7 <./pictures/Oberon_Emelyanov_RA.png> <./pictures/Oberon_Emelyanov_DEC.
+png>]
 (./Оценка точности теорий движения спутнико
 в Урана.aux) )
 (\end occurred inside a group at level 1)
@@ -492,13 +407,13 @@ RA.png> <./pictures/Titania_Emelyanov_RA.png> <./pictures/Titania_Laskar_RA.png
 ### semi simple group (level 1) entered at line 19 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2885 strings out of 494816
- 41679 string characters out of 3177879
- 102750 words of memory out of 3000000
- 6020 multiletter control sequences out of 15000+200000
+ 2826 strings out of 494816
+ 39894 string characters out of 3177879
+ 105660 words of memory out of 3000000
+ 5971 multiletter control sequences out of 15000+200000
  12845 words of font info for 31 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
- 37i,7n,24p,944b,267s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,7n,24p,944b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600
 pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/ve
 yza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/veyza/.texmf-va
@@ -506,17 +421,16 @@ r/fonts/pk/ljfour/lh/lh-t2a/labx0900.600pk> </home/veyza/.texmf-var/fonts/pk/lj
 four/lh/lh-t2a/larm1200.600pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2
 a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
 Output written on "Оценка точности теорий движения 
-спутников Урана.pdf" (11 pages, 317834 bytes).
+спутников Урана.pdf" (7 pages, 240570 bytes).
 PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 333 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
