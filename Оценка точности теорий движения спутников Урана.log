@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  28 APR 2016 12:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  5 MAY 2016 13:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -223,44 +223,35 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 17.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 17.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 17.
+[1
 
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./Оценка точности теорий движения спутнико
+в Урана.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 32.
+(Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 32.
+(Font)              <5> on input line 5.
+)
+\tf@toc=\write3
+\openout3 = `"Оценка точности теорий движения сп�
+�тников Урана.toc"'.
+
+ [2]
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.34  &
+l.70  &
         & \\
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<pictures/plane_turn_3.png, id=1, 567.11874pt x 288.07625pt>
+<pictures/plane_turn_3.png, id=13, 567.11874pt x 288.07625pt>
 File: pictures/plane_turn_3.png Graphic file (type png)
 
 <use pictures/plane_turn_3.png>
-Package pdftex.def Info: pictures/plane_turn_3.png used on input line 47.
+Package pdftex.def Info: pictures/plane_turn_3.png used on input line 83.
 (pdftex.def)             Requested size: 396.98041pt x 201.65198pt.
 
 
@@ -273,15 +264,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.52 
+l.88 
      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 92--106
+
+ []
+
+[3]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -289,150 +283,144 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 
-     
+l.108 
+      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--66
-
- []
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.68 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[2 <./pictures/plane_turn_3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[4 <./pictures/plane_turn_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--116
+Underfull \hbox (badness 10000) in paragraph at lines 145--158
 
  []
 
-[3] <pictures/Ariel_Emelyanov_RA.png, id=24, 1505.625pt x 501.875pt>
+[5] [6] <pictures/Ariel_Emelyanov_RA.png, id=34, 1505.625pt x 501.875pt>
 File: pictures/Ariel_Emelyanov_RA.png Graphic file (type png)
 
 <use pictures/Ariel_Emelyanov_RA.png>
-Package pdftex.def Info: pictures/Ariel_Emelyanov_RA.png used on input line 160
+Package pdftex.def Info: pictures/Ariel_Emelyanov_RA.png used on input line 202
 .
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-<pictures/Ariel_Emelyanov_DEC.png, id=25, 1505.625pt x 501.875pt>
+<pictures/Ariel_Emelyanov_DEC.png, id=35, 1505.625pt x 501.875pt>
 File: pictures/Ariel_Emelyanov_DEC.png Graphic file (type png)
 
 <use pictures/Ariel_Emelyanov_DEC.png>
-Package pdftex.def Info: pictures/Ariel_Emelyanov_DEC.png used on input line 16
-6.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+Package pdftex.def Info: pictures/Ariel_Emelyanov_DEC.png used on input line 20
+8.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-<pictures/Umbriel_Emelyanov_RA.png, id=26, 1505.625pt x 501.875pt>
+<pictures/Umbriel_Emelyanov_RA.png, id=36, 1505.625pt x 501.875pt>
 File: pictures/Umbriel_Emelyanov_RA.png Graphic file (type png)
 
 <use pictures/Umbriel_Emelyanov_RA.png>
-Package pdftex.def Info: pictures/Umbriel_Emelyanov_RA.png used on input line 1
-76.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+Package pdftex.def Info: pictures/Umbriel_Emelyanov_RA.png used on input line 2
+16.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-<pictures/Umbriel_Emelyanov_DEC.png, id=27, 1505.625pt x 501.875pt>
+<pictures/Umbriel_Emelyanov_DEC.png, id=37, 1505.625pt x 501.875pt>
 File: pictures/Umbriel_Emelyanov_DEC.png Graphic file (type png)
 
 <use pictures/Umbriel_Emelyanov_DEC.png>
 Package pdftex.def Info: pictures/Umbriel_Emelyanov_DEC.png used on input line 
-182.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+222.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-<pictures/Titania_Emelyanov_RA.png, id=28, 1505.625pt x 501.875pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/Titania_Emelyanov_RA.png, id=38, 1505.625pt x 501.875pt>
 File: pictures/Titania_Emelyanov_RA.png Graphic file (type png)
 
 <use pictures/Titania_Emelyanov_RA.png>
-Package pdftex.def Info: pictures/Titania_Emelyanov_RA.png used on input line 1
-92.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+Package pdftex.def Info: pictures/Titania_Emelyanov_RA.png used on input line 2
+30.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-<pictures/Titania_Emelyanov_DEC.png, id=29, 1505.625pt x 501.875pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/Titania_Emelyanov_DEC.png, id=39, 1505.625pt x 501.875pt>
 File: pictures/Titania_Emelyanov_DEC.png Graphic file (type png)
 
 <use pictures/Titania_Emelyanov_DEC.png>
 Package pdftex.def Info: pictures/Titania_Emelyanov_DEC.png used on input line 
-197.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+235.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-<pictures/Oberon_Emelyanov_RA.png, id=30, 1505.625pt x 501.875pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/Oberon_Emelyanov_RA.png, id=40, 1505.625pt x 501.875pt>
 File: pictures/Oberon_Emelyanov_RA.png Graphic file (type png)
 
 <use pictures/Oberon_Emelyanov_RA.png>
-Package pdftex.def Info: pictures/Oberon_Emelyanov_RA.png used on input line 20
-7.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+Package pdftex.def Info: pictures/Oberon_Emelyanov_RA.png used on input line 24
+2.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-<pictures/Oberon_Emelyanov_DEC.png, id=31, 1505.625pt x 501.875pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/Oberon_Emelyanov_DEC.png, id=41, 1505.625pt x 501.875pt>
 File: pictures/Oberon_Emelyanov_DEC.png Graphic file (type png)
 
 <use pictures/Oberon_Emelyanov_DEC.png>
 Package pdftex.def Info: pictures/Oberon_Emelyanov_DEC.png used on input line 2
-12.
-(pdftex.def)             Requested size: 451.691pt x 150.56366pt.
+47.
+(pdftex.def)             Requested size: 376.40533pt x 125.46843pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./pictures/Ariel_Emelyanov_RA.png> <./pictures/Ariel_Emelyanov_DEC.png> <./
+pictures/Umbriel_Emelyanov_RA.png>]
+Overfull \vbox (6.39098pt too high) has occurred while \output is active []
+
+
+[8 <./pictures/Umbriel_Emelyanov_DEC.png> <./pictures/Titania_Emelyanov_RA.png>
+ <./pictures/Titania_Emelyanov_DEC.png> <./pictures/Oberon_Emelyanov_RA.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 260--263
+[9 <./pictures/Oberon_Emelyanov_DEC.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
  []
 
-[5] [6 <./pictures/Ariel_Emelyanov_RA.png> <./pictures/Ariel_Emelyanov_DEC.png>
- <./pictures/Umbriel_Emelyanov_RA.png>] [7 <./pictures/Umbriel_Emelyanov_DEC.pn
-g> <./pictures/Titania_Emelyanov_RA.png> <./pictures/Titania_Emelyanov_DEC.png>
-] [8 <./pictures/Oberon_Emelyanov_RA.png> <./pictures/Oberon_Emelyanov_DEC.png>
-]
+[10]
 (./Оценка точности теорий движения спутнико
-в Урана.aux) )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 19 (\begingroup)
-### bottom level 
+в Урана.aux) ) 
 Here is how much of TeX's memory you used:
- 2836 strings out of 494816
- 39992 string characters out of 3177879
- 106672 words of memory out of 3000000
- 5980 multiletter control sequences out of 15000+200000
- 13662 words of font info for 32 fonts, out of 3000000 for 9000
+ 2809 strings out of 494816
+ 39856 string characters out of 3177879
+ 106674 words of memory out of 3000000
+ 5961 multiletter control sequences out of 15000+200000
+ 8499 words of font info for 20 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
- 37i,7n,24p,1659b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600
-pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.600pk> </home/ve
-yza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/veyza/.texmf-va
-r/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/veyza/.texmf-var/fonts/pk/lj
-four/lh/lh-t2a/labx0900.600pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2
-a/larm1200.600pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy7.pfb>
+ 37i,7n,24p,1659b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200
+.600pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.600pk> </hom
+e/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/veyza/.texm
+f-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/veyza/.texmf-var/fonts/p
+k/ljfour/lh/lh-t2a/larm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
 Output written on "Оценка точности теорий движения 
-спутников Урана.pdf" (8 pages, 249422 bytes).
+спутников Урана.pdf" (10 pages, 257559 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 371 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
